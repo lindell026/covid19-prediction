@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=13smVsOiuNLo8H8QLJXy-nKg_IbleHNRG'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1CgJVN8yGEP5W6eeItWbyzTHm7eF1j21K'
 export_file_name = 'pickle_model.pkl'
 
 classes = ['positive', 'negative']
